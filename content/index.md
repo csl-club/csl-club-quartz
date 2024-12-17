@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Club de Software Libre @ UTEC
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+¡Buscamos introducir el Software Libre como concepto y herramienta de desarrollo!
